@@ -1,2 +1,2 @@
 # Skill-Trader
-<a href="skill-trader-hackathon.vercel.app">Click here to Visit our project</a>
+<a href="https://skill-trader-hackathon.vercel.app/" target="_blank" rel="noopener noreferrer"></a>

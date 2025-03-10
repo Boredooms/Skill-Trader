@@ -1,7 +1,6 @@
 # Skill-Trader
 # Skill Trader - Web3 Skill Exchange Platform
 
-![Skill Trader]  
 🚀 Built with passion, innovation, and relentless effort during an intense Hackathon! 🎯
 
 ## 🌟 Overview

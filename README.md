@@ -35,13 +35,13 @@ We faced countless challenges but pushed through with determination, making sign
 
 ## 🤝 Contributing
 We welcome contributions! Fork the repo, make your improvements, and submit a pull request. Let's build something amazing together! 💪
-Contributors of this amazing project:\n
+Contributors of this amazing project:<br>
 [Sushovan Ghosh](https://github.com/MIRACULOUS65)
-\n
+<br>
 [Suman Ghosh](https://github.com/Suman-Ghosh-2005)
-\n
+<br>
 [Devargho Chakraborty](https://github.com/Boredooms)
-\n
+<br>
 **Soumyajit Bhatttacharjee**
 ---
 
